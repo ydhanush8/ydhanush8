@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Y Dhanush, an aspiring Software Engineer with a strong interest in Full-Stack Development using the MERN stack. I hold a Bachelor's in Computer Science and Engineering and have over a year of experience building applications, including a chat app and a bookstore app. I'm passionate about learning new technologies and creating efficient, scalable solutions.
+👋 Hi, I'm Y Dhanush, an aspiring Software Engineer with a strong interest in Full-Stack Development using the MERN stack. I hold a Bachelor's in Computer Science and Engineering and have over a year of experience building applications. I'm passionate about learning new technologies and creating efficient, scalable solutions.
 
 
 ## 🌐 Socials:
